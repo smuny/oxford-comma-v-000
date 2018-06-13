@@ -1,6 +1,7 @@
 def oxford_comma(array)
-  array.join
-  array.to_a
+ if array.length == 1
+   
+ end
 end
 
 # how to use these commands with 1 element, 2 element and multiple elements
