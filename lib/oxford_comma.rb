@@ -9,6 +9,5 @@ def oxford_comma(array)
  end
 end
 
-test =  ['pig', 'horse', 'cat', 'dog', 'mouse', 'deer']
 #array.length == 3
    # array[0..1] << ("and") << array[2]
